@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Artur 👋
 
-<!--
-**chappa52/chappa52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering student interested in Python, algorithms and software development.
 
-Here are some ideas to get you started:
+## 💻 Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- Git / GitHub
+- Basic algorithms
+- Data structures
+
+## 📂 Projects
+
+### Sorting and Searching Algorithms
+Implementation of classic algorithms such as bubble sort and binary search.
+
+🔗 https://github.com/chappa52/python-sorting-searching
+
+### Array and Matrix Processing
+Programs for processing arrays and performing statistical calculations.
+
+🔗 https://github.com/chappa52/python-array-matrix-tasks
+
+### Python Numerical Calculations
+Programs for solving mathematical and numerical problems.
+
+🔗 https://github.com/chappa52/python-numerical-calculations
+
+### CLI To-Do Manager
+Command-line task manager written in Python.
+
+🔗 https://github.com/chappa52/python-cli-todo-manager
+
+## 🌍 Languages
+
+- Ukrainian — Native
+- German — Fluent
+- English — Intermediate
+
+## 📫 Contact
+
+Email: arturmotuz2005@gmail.com
