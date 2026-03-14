@@ -34,8 +34,9 @@ Command-line task manager written in Python.
 ## 🌍 Languages
 
 - Ukrainian — Native
+- Russian - Native
 - German — Fluent
-- English — Intermediate
+- English — Upper-Intermediate
 
 ## 📫 Contact
 
